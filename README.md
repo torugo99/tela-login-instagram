@@ -11,7 +11,7 @@ Seja bem vindo ao meu projeto chamado "Tela de Login do Instagram", feito totalm
 
 ### 📸 | Screenshots: 
 
-![preview1 img](/images/preview.png)
+![preview1 img](./img/preview.png)
 
 ## 👩‍💻 Meus Links:
 
