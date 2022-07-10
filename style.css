@@ -156,6 +156,10 @@ footer a:hover {
         background-color: #ffffff;
     }
 
+    footer { 
+        display: none;
+    }
+
     .instagram-wrapper {
         width: 90%;
     }
@@ -171,4 +175,9 @@ footer a:hover {
     .group {
         border: 1px solid transparent;
     }
+
+    .download {
+        width: 330px;
+    }
+
 }
