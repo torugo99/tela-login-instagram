@@ -127,6 +127,24 @@ body {
     background-image: url(./img/googleplay-button.png);
 }
 
+footer {
+    text-align: center;
+    width: 100%;
+    background-color:lightgray;
+    position: absolute;
+    bottom: 0;    
+}
+
+footer a{
+    text-decoration: none;
+    color: #000;
+}
+
+footer a:hover {
+    color: rgb(160, 160, 160);
+    transition: all 0.4s ease;
+}
+
 @media (max-width: 1024px) {
     .instagram-wrapper {
         width: 90px;
